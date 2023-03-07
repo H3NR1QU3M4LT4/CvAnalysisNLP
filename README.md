@@ -1,5 +1,5 @@
 # CvAnalysisNLP
-This project aims to create models for resume parsing using LayoutLMv2, LayoutLMv3 and LayoutXML models. The project contains Jupyter notebooks for fine-tuning these models to do token classification on resume data.
+This project is part of my dissertation in Information Systems Engineering and aims to create models for resume parsing using LayoutLMv2, LayoutLMv3 and LayoutXML models. The project contains Jupyter notebooks for fine-tuning these models to do token classification on resume data.
 The data used for fine tunning is not available.
 
 ## Requirements:
